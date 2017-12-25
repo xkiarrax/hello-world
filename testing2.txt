@@ -1,1 +1,2 @@
-This is on another branch. Just testing again!
+This is currently on another branch. Just testing again! 
+Making a minor change to this file. 
